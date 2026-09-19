@@ -1,0 +1,11 @@
+pandas
+numpy
+geopandas
+matplotlib
+scipy
+pymannkendall
+earthaccess
+requests
+urllib3
+pwlf
+statsmodels
